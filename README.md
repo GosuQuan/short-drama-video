@@ -14,6 +14,7 @@
 |------|--------|
 | [examples/01-rooftop-neon-dance.md](examples/01-rooftop-neon-dance.md) | 雨后霓虹天台：被嘲只会拍短视频的舞者，用一支舞定规则 |
 | [examples/02-cafe-rain-dance-reveal.md](examples/02-cafe-rain-dance-reveal.md) | 雨窗咖啡馆：戴口罩让座的「路人」，揭面竟是全网找的原跳 |
+| [examples/03-xingqiyao-style-solo-dance.md](examples/03-xingqiyao-style-solo-dance.md) | 星奇摇风单人竖屏热舞仿风格实验（15s 样片） |
 
 每份含：标题 / 类型 / premise / 灵感说明 / 角色卡 / 逐镜分镜（景别·动作·对白·AI 视频 prompt）。
 
