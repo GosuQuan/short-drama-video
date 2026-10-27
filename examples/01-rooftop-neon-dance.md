@@ -111,3 +111,18 @@
 - BGM：低频 house / 暗色电子，鼓点与镜 04、05 对齐。
 - 字幕：钩子句与「别眨眼」可做大字卡；其余 VO 小字。
 - AI 生成注意：每镜 **单一主动作**；角色服装/发型描述复用本页角色卡；少做复杂手指特写。
+
+---
+
+## 已生成样片（首尾帧驱动）
+
+路径：`examples/assets/rooftop-neon-dance/`
+
+| 文件 | 说明 |
+|------|------|
+| [first-frame.jpg](assets/rooftop-neon-dance/first-frame.jpg) | 首帧 |
+| [last-frame.jpg](assets/rooftop-neon-dance/last-frame.jpg) | 尾帧 |
+| [rooftop-neon-dance-15s.mp4](assets/rooftop-neon-dance/rooftop-neon-dance-15s.mp4) | 约 15 秒竖屏成片 |
+
+> 样片角色造型偏霓虹礼服实验版，与上文角色卡（夹克舞裤）可并存为「高光镜头变体」；后续可再对齐服装一致性。
+

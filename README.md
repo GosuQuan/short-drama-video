@@ -17,6 +17,8 @@
 
 每份含：标题 / 类型 / premise / 灵感说明 / 角色卡 / 逐镜分镜（景别·动作·对白·AI 视频 prompt）。
 
+已生成样片（示例 01）：[examples/assets/rooftop-neon-dance/](examples/assets/rooftop-neon-dance/) — 首帧、尾帧、约 15s `rooftop-neon-dance-15s.mp4`。
+
 ## 可放什么
 
 - 课程 / 视频学习笔记（编排链路、模型与工具分工）
