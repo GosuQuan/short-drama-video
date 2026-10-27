@@ -19,6 +19,10 @@
 
 已生成样片（示例 01）：[examples/assets/rooftop-neon-dance/](examples/assets/rooftop-neon-dance/) — 首帧、尾帧、约 15s `rooftop-neon-dance-15s.mp4`。
 
+## 编排技术说明
+
+- [docs/orchestration-rooftop-neon-dance.md](docs/orchestration-rooftop-neon-dance.md) — 分镜→prompt→首尾帧→15s 成片的编排与价值点
+
 ## 可放什么
 
 - 课程 / 视频学习笔记（编排链路、模型与工具分工）
